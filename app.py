@@ -2,8 +2,10 @@
 from flask import *
 
 
+
 # Below we create a web server based application
 app = Flask(__name__)
+
 
 # below we create the home route
 # Routing is connecting different resources to diiferent functions. We do this by the help of a connector
